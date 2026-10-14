@@ -55,7 +55,7 @@ Learning, practicing, and building projects continuously.
 
 ## 📫 Contato | Contact
 
-* GitHub: https://github.com/SEU-USUARIO
+* GitHub: https://github.com/vitor1914
 
 **vitor1914/vitor1914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
