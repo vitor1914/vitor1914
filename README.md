@@ -70,3 +70,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<div align="center">
+
+<img src="assets/banner.gif" width="100%" alt="Banner animado de tecnologia">
+
+# Vitor | Data & Software
+
+**Data Analytics • Data Engineering • Python • SQL**
+
+Building projects. Learning continuously. Solving problems.
+
+Desenvolvendo projetos. Aprendendo continuamente. Resolvendo problemas.
+
+</div>
