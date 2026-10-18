@@ -1,72 +1,52 @@
-
+# Olá! | Hello! 👋
 
 ## 🇧🇷 Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e utilizo este GitHub para documentar meus estudos, praticar programação e desenvolver projetos práticos.
+Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e direciono meus estudos para Análise de Dados e Engenharia de Dados.
 
-Meu objetivo é aprender continuamente, consolidar conhecimentos técnicos e construir um portfólio que demonstre minha evolução.
+Utilizo este perfil para desenvolver projetos práticos, documentar meu aprendizado e construir um portfólio com Python, SQL, Power BI e Excel.
+
+Acredito no aprendizado contínuo e na aplicação prática do conhecimento para resolver problemas e transformar dados em informações úteis.
 
 ## 🇺🇸 About Me
 
-I have a degree in Systems Analysis and Development. I use this GitHub profile to document my learning journey, practice programming, and build hands-on projects.
+I have a degree in Systems Analysis and Development and focus my learning on Data Analytics and Data Engineering.
 
-My goal is to keep learning, strengthen my technical skills, and build a portfolio that demonstrates my progress.
+I use this profile to build hands-on projects, document my learning journey, and develop a portfolio using Python, SQL, Power BI, and Excel.
 
-## 🛠️ Áreas de estudo | Areas of Study
+I believe in continuous learning and applying practical knowledge to solve problems and turn data into useful insights.
 
-* **Planilhas e dashboards:** Google Sheets, Excel, Power BI
-* **Programação:** Python, Java, C, R
-* **Análise de dados:** Pandas, NumPy, Data Visualization
-* **Bancos de dados:** SQL, SQLite
-* **Estatística:** Statistical Analysis
-* **Machine Learning:** Supervised and Unsupervised Learning
-* **Inteligência Artificial:** Natural Language Processing (NLP), Deep Learning
-* **Engenharia de Dados:** ETL, Data Pipelines
-* **Infraestrutura:** Cloud Computing, MLOps
-* **Eletrônica:** KiCad, Circuit Design, PCB Design
-* **Ferramentas:** Git, GitHub, Linux
+## 🛠️ Tecnologias e ferramentas | Technologies & Tools
 
-## 📂 Projetos de estudo | Learning Projects
+- **Análise de Dados | Data Analytics:** Excel, Google Sheets, Power BI
+- **Programação | Programming:** Python, Pandas, NumPy
+- **Bancos de Dados | Databases:** SQL, SQLite
+- **Visualização | Data Visualization:** Charts and dashboards
+- **Engenharia de Dados | Data Engineering:** ETL, data pipelines
+- **Machine Learning:** Supervised and unsupervised learning
+- **Inteligência Artificial | Artificial Intelligence:** NLP, Deep Learning
+- **Ferramentas | Tools:** Git, GitHub, Linux
 
-Neste perfil, publico projetos desenvolvidos durante meus estudos, incluindo:
+## 📂 Projetos | Projects
 
-* Dashboards e automações com Google Sheets
-* Análise e visualização de dados
-* Consultas SQL e bancos de dados
-* Scripts e aplicações de programação
-* Projetos de Machine Learning e Inteligência Artificial
-* Pipelines de Engenharia de Dados
-* Estudos de Cloud Computing e MLOps
-* Projetos de eletrônica com KiCad
+Meus repositórios reúnem projetos práticos de estudo, incluindo:
 
-All projects are developed for learning, practice, and technical development.
+My repositories contain hands-on learning projects, including:
+
+- Análise e limpeza de dados | Data analysis and cleaning
+- Visualização de dados | Data visualization
+- Consultas SQL e bancos de dados | SQL queries and databases
+- Classificação de texto com NLP | Text classification with NLP
+- Pipelines de dados com Python e SQLite | Data pipelines with Python and SQLite
+- Planilhas e automações | Spreadsheets and automation
 
 ## 🎯 Objetivo | Goal
 
-Transformar conhecimentos teóricos em projetos práticos, desenvolver novas habilidades e acompanhar minha evolução na área de tecnologia.
+Desenvolver minhas habilidades técnicas, criar soluções práticas e construir um portfólio que demonstre minha evolução profissional.
 
-Turn theoretical knowledge into practical projects, develop new skills, and track my progress in technology.
-
-## 📈 Aprendizado contínuo | Continuous Learning
-
-Estudando, praticando e desenvolvendo projetos continuamente.
-
-Learning, practicing, and building projects continuously.
+To strengthen my technical skills, build practical solutions, and develop a portfolio that demonstrates my professional growth.
 
 ## 📫 Contato | Contact
 
-* GitHub: https://github.com/vitor1914
-
-**vitor1914/vitor1914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **GitHub:** [vitor1914](https://github.com/vitor1914)
+- **LinkedIn:** [Israel Vitor Garajau](https://www.linkedin.com/in/israel-vitor-garajau/)
