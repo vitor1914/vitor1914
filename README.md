@@ -4,24 +4,24 @@
 
 Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e direciono meus estudos para Análise de Dados e Engenharia de Dados.
 
-Utilizo este perfil para desenvolver projetos práticos, documentar meu aprendizado e construir um portfólio com Python, SQL, Power BI e Excel.
+Utilizo este perfil para desenvolver projetos práticos, documentar meu aprendizado e construir um portfólio com Python, SQL, Power BI e Google Sheets.
 
 Acredito no aprendizado contínuo e na aplicação prática do conhecimento para resolver problemas e transformar dados em informações úteis.
 
 ## 🇺🇸 About Me
 
-I have a degree in Systems Analysis and Development and focus my learning on Data Analytics and Data Engineering.
+I have a degree in Systems Analysis and Development and focus my studies on Data Analytics and Data Engineering.
 
-I use this profile to build hands-on projects, document my learning journey, and develop a portfolio using Python, SQL, Power BI, and Excel.
+I use this profile to develop practical projects, document my learning journey, and build a portfolio using Python, SQL, Power BI, and Google Sheets.
 
-I believe in continuous learning and applying practical knowledge to solve problems and turn data into useful insights.
+I believe in continuous learning and applying practical knowledge to solve problems and transform data into useful insights.
 
 ## 🛠️ Tecnologias e ferramentas | Technologies & Tools
 
 - **Análise de Dados | Data Analytics:** Excel, Google Sheets, Power BI
 - **Programação | Programming:** Python, Pandas, NumPy
-- **Bancos de Dados | Databases:** SQL, SQLite
-- **Visualização | Data Visualization:** Charts and dashboards
+- **Bancos de Dados | Databases:** SQL, SQLite, PostgreSQL
+- **Visualização de Dados | Data Visualization:** Charts and dashboards
 - **Engenharia de Dados | Data Engineering:** ETL, data pipelines
 - **Machine Learning:** Supervised and unsupervised learning
 - **Inteligência Artificial | Artificial Intelligence:** NLP, Deep Learning
@@ -29,24 +29,29 @@ I believe in continuous learning and applying practical knowledge to solve probl
 
 ## 📂 Projetos | Projects
 
-Meus repositórios reúnem projetos práticos de estudo, incluindo:
+Meus repositórios reúnem projetos práticos desenvolvidos durante meus estudos, com foco na aplicação dos conhecimentos técnicos.
 
-My repositories contain hands-on learning projects, including:
+My repositories contain hands-on projects developed throughout my learning journey, focusing on applying technical knowledge.
 
 - Análise e limpeza de dados | Data analysis and cleaning
-- Visualização de dados | Data visualization
+- Visualização de dados e dashboards | Data visualization and dashboards
 - Consultas SQL e bancos de dados | SQL queries and databases
 - Classificação de texto com NLP | Text classification with NLP
-- Pipelines de dados com Python e SQLite | Data pipelines with Python and SQLite
-- Planilhas e automações | Spreadsheets and automation
+- Pipelines de dados com Python e bancos de dados | Data pipelines with Python and databases
+- Planilhas, dashboards e automações | Spreadsheets, dashboards, and automation
 
 ## 🎯 Objetivo | Goal
 
-Desenvolver minhas habilidades técnicas, criar soluções práticas e construir um portfólio que demonstre minha evolução profissional.
+Desenvolver minhas habilidades técnicas, criar soluções práticas e construir um portfólio que demonstre minha evolução nos estudos de tecnologia e dados.
 
-To strengthen my technical skills, build practical solutions, and develop a portfolio that demonstrates my professional growth.
+To strengthen my technical skills, develop practical solutions, and build a portfolio that demonstrates my progress in technology and data.
 
 ## 📫 Contato | Contact
 
 - **GitHub:** [vitor1914](https://github.com/vitor1914)
 - **LinkedIn:** [Israel Vitor Garajau](https://www.linkedin.com/in/israel-vitor-garajau/)
+
+
+<p align="center">
+  <img src="assets/radar-habilidades.svg" alt="Gráfico radar de habilidades em tecnologia" width="600">
+</p>
