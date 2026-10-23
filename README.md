@@ -53,12 +53,48 @@ To strengthen my technical skills, develop practical solutions, and build a port
 
 
 
-## 📊 Radar de habilidades | Skills Radar
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vitor1914/meu-portfolio-main/main/assets/radar-habilidades.svg" alt="Radar de habilidades em tecnologia" width="600">
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="580" viewBox="0 0 700 580">
+  <rect width="700" height="580" rx="18" fill="#0d1117"/>
 
-<p align="center">
-</p>
+  <text x="350" y="40" fill="#58a6ff" font-size="25" font-family="Arial" text-anchor="middle" font-weight="bold">Radar de Habilidades</text>
+  <text x="350" y="65" fill="#8b949e" font-size="14" font-family="Arial" text-anchor="middle">Data Analytics &amp; Data Engineering</text>
+
+  <g transform="translate(350 280)" fill="none" stroke="#30363d" stroke-width="1.5">
+    <polygon points="0,-160 152.2,-49.4 94,-129.4  -94,129.4 -152.2,-49.4" opacity="0"/>
+    <polygon points="0,-160 152.2,-49.4 94,129.4 -94,129.4 -152.2,-49.4"/>
+    <polygon points="0,-128 121.8,-39.5 75.2,103.5 -75.2,103.5 -121.8,-39.5"/>
+    <polygon points="0,-96 91.3,-29.6 56.4,77.6 -56.4,77.6 -91.3,-29.6"/>
+    <polygon points="0,-64 60.9,-19.8 37.6,51.8 -37.6,51.8 -60.9,-19.8"/>
+    <polygon points="0,-32 30.4,-9.9 18.8,25.9 -18.8,25.9 -30.4,-9.9"/>
+    <line x1="0" y1="0" x2="0" y2="-160"/>
+    <line x1="0" y1="0" x2="152.2" y2="-49.4"/>
+    <line x1="0" y1="0" x2="94" y2="129.4"/>
+    <line x1="0" y1="0" x2="-94" y2="129.4"/>
+    <line x1="0" y1="0" x2="-152.2" y2="-49.4"/>
+  </g>
+
+  <polygon points="350,152 441.3,250.4 406.4,357.6 293.6,357.6 258.7,250.4"
+           fill="#1f6feb" fill-opacity="0.4" stroke="#58a6ff" stroke-width="3"/>
+
+  <g fill="#79c0ff">
+    <circle cx="350" cy="152" r="5"/>
+    <circle cx="441.3" cy="250.4" r="5"/>
+    <circle cx="406.4" cy="357.6" r="5"/>
+    <circle cx="293.6" cy="357.6" r="5"/>
+    <circle cx="258.7" cy="250.4" r="5"/>
+  </g>
+
+  <g fill="#e6edf3" font-family="Arial" font-size="16" text-anchor="middle">
+    <text x="350" y="100">Python</text>
+    <text x="505" y="242">SQL</text>
+    <text x="455" y="395">Análise de Dados</text>
+    <text x="245" y="395">Engenharia de Dados</text>
+    <text x="195" y="242">Power BI</text>
+  </g>
+
+  <text x="350" y="465" fill="#58a6ff" font-family="Arial" font-size="16" text-anchor="middle">Aprendizado contínuo • Projetos práticos</text>
+  <text x="350" y="493" fill="#8b949e" font-family="Arial" font-size="13" text-anchor="middle">Ilustração das áreas de estudo</text>
+  <text x="350" y="515" fill="#8b949e" font-family="Arial" font-size="13" text-anchor="middle">Níveis meramente ilustrativos</text>
+</svg>
 
