@@ -52,6 +52,13 @@ To strengthen my technical skills, develop practical solutions, and build a port
 - **LinkedIn:** [Israel Vitor Garajau](https://www.linkedin.com/in/israel-vitor-garajau/)
 
 
+
+## 📊 Radar de habilidades | Skills Radar
+
 <p align="center">
-  <img src="assets/radar-habilidades.svg" alt="Gráfico radar de habilidades em tecnologia" width="600">
+  <img src="assets/radar-habilidades.svg" alt="Radar de habilidades em tecnologia" width="600">
+</p>
+
+<p align="center">
+  Gráfico ilustrativo das áreas de estudo em tecnologia e dados.
 </p>
