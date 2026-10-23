@@ -56,9 +56,9 @@ To strengthen my technical skills, develop practical solutions, and build a port
 ## 📊 Radar de habilidades | Skills Radar
 
 <p align="center">
-  <img src="assets/radar-habilidades.svg" alt="Radar de habilidades em tecnologia" width="600">
+  <img src="https://raw.githubusercontent.com/vitor1914/meu-portfolio-main/main/assets/radar-habilidades.svg" alt="Radar de habilidades em tecnologia" width="600">
 </p>
 
 <p align="center">
-  Gráfico ilustrativo das áreas de estudo em tecnologia e dados.
 </p>
+
